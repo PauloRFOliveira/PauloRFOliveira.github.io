@@ -1,0 +1,38 @@
+[
+    {
+        "code" : "s1",
+        "cardname" : "Cram Session",
+        "cardtype" : "Sorcery",
+        "quantity" : 3,
+        "image" : "https://cards.scryfall.io/png/front/c/5/c59a249f-35ed-447a-845b-32ba5a53124e.png?1627428330",
+        "doublesided" : false,
+        "art" : "https://cards.scryfall.io/art_crop/front/c/5/c59a249f-35ed-447a-845b-32ba5a53124e.jpg?1627428330"
+    },
+    {
+        "code" : "s2",
+        "cardname" : "Echoing Decay",
+        "cardtype" : "Instant",
+        "quantity" : 4,
+        "image" : "https://cards.scryfall.io/png/front/f/8/f8e688e7-8350-4b78-bd49-a6ffdedad556.png?1562640566",
+        "doublesided" : false,
+        "art" : "https://cards.scryfall.io/art_crop/front/f/8/f8e688e7-8350-4b78-bd49-a6ffdedad556.jpg?1562640566"
+    },
+    {
+        "code" : "s3",
+        "cardname" : "Duress",
+        "cardtype" : "Sorcery",
+        "quantity" : 4,
+        "image" : "https://cards.scryfall.io/png/front/c/0/c0a72721-2a4a-4d48-a7b0-2370b90b8619.png?1634349768",
+        "doublesided" : false,
+        "art" : "https://cards.scryfall.io/art_crop/front/c/0/c0a72721-2a4a-4d48-a7b0-2370b90b8619.jpg?1634349768"
+    },
+    {
+        "code" : "s4",
+        "cardname" : "Memory Leak",
+        "cardtype" : "Sorcery",
+        "quantity" : 4,
+        "image" : "https://cards.scryfall.io/png/front/3/b/3b45a493-a1c2-430e-a45c-abc1ba554877.png?1591226876",
+        "doublesided" : false,
+        "art" : "https://cards.scryfall.io/art_crop/front/3/b/3b45a493-a1c2-430e-a45c-abc1ba554877.jpg?1591226876"
+    }
+]

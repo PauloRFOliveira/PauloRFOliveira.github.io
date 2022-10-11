@@ -1,0 +1,56 @@
+[
+    {
+        "code" : "s1",
+        "cardname" : "Echoing Truth",
+        "cardtype" : "Instant",
+        "quantity" : 1,
+        "image" : "https://cards.scryfall.io/png/front/5/5/55cd75bc-5ec7-45b2-9231-85a321ecd786.png?1568003983",
+        "doublesided" : false,
+        "art" : "https://cards.scryfall.io/art_crop/front/5/5/55cd75bc-5ec7-45b2-9231-85a321ecd786.jpg?1568003983"
+    },
+    {
+        "code" : "s2",
+        "cardname" : "Dispel",
+        "cardtype" : "Instant",
+        "quantity" : 2,
+        "image" : "https://cards.scryfall.io/png/front/b/c/bceab6b3-6b64-4964-a501-ce806a6c13ad.png?1562939587",
+        "doublesided" : false,
+        "art" : "https://cards.scryfall.io/art_crop/front/b/c/bceab6b3-6b64-4964-a501-ce806a6c13ad.jpg?1562939587"
+    },
+    {
+        "code" : "s3",
+        "cardname" : "Steel Sabotage",
+        "cardtype" : "Instant",
+        "quantity" : 3,
+        "image" : "https://cards.scryfall.io/png/front/c/2/c227437d-1fc7-4a00-ace5-80795adc51d3.png?1598304335",
+        "doublesided" : false,
+        "art" : "https://cards.scryfall.io/art_crop/front/c/2/c227437d-1fc7-4a00-ace5-80795adc51d3.jpg?1598304335"
+    },
+    {
+        "code" : "s4",
+        "cardname" : "Blue Elemental Blast",
+        "cardtype" : "Instant",
+        "quantity" : 3,
+        "image" : "https://cards.scryfall.io/png/front/2/f/2f51f88f-f662-4572-a371-9a77718ed079.png?1562434032",
+        "doublesided" : false,
+        "art" : "https://cards.scryfall.io/art_crop/front/2/f/2f51f88f-f662-4572-a371-9a77718ed079.jpg?1562434032"
+    },
+    {
+        "code" : "s5",
+        "cardname" : "Gut Shot",
+        "cardtype" : "Instant",
+        "quantity" : 4,
+        "image" : "https://cards.scryfall.io/png/front/4/6/461987da-8860-4a04-8f93-d182523ca311.png?1562261607",
+        "doublesided" : false,
+        "art" : "https://cards.scryfall.io/art_crop/front/4/6/461987da-8860-4a04-8f93-d182523ca311.jpg?1562261607"
+    },
+    {
+        "code" : "s6",
+        "cardname" : "Winter's Rest",
+        "cardtype" : "Enchantment",
+        "quantity" : 2,
+        "image" : "https://cards.scryfall.io/png/front/1/f/1fdaf6b6-aca7-49e5-a4da-bf8c08b4a055.png?1562201558",
+        "doublesided" : false,
+        "art" : "https://cards.scryfall.io/art_crop/front/1/f/1fdaf6b6-aca7-49e5-a4da-bf8c08b4a055.jpg?1562201558"
+    }
+]
