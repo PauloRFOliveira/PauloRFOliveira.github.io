@@ -1,6 +1,6 @@
 [
     {
-        "code" : "s1",
+        "code" : 1,
         "cardname" : "Cram Session",
         "cardtype" : "Sorcery",
         "quantity" : 3,
@@ -9,7 +9,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/c/5/c59a249f-35ed-447a-845b-32ba5a53124e.jpg?1627428330"
     },
     {
-        "code" : "s2",
+        "code" : 2,
         "cardname" : "Echoing Decay",
         "cardtype" : "Instant",
         "quantity" : 4,
@@ -18,7 +18,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/f/8/f8e688e7-8350-4b78-bd49-a6ffdedad556.jpg?1562640566"
     },
     {
-        "code" : "s3",
+        "code" : 3,
         "cardname" : "Duress",
         "cardtype" : "Sorcery",
         "quantity" : 4,
@@ -27,7 +27,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/c/0/c0a72721-2a4a-4d48-a7b0-2370b90b8619.jpg?1634349768"
     },
     {
-        "code" : "s4",
+        "code" : 4,
         "cardname" : "Memory Leak",
         "cardtype" : "Sorcery",
         "quantity" : 4,

@@ -1,6 +1,6 @@
 [
     {
-        "code" : "m1",
+        "code" : 1,
         "cardname" : "Delver of Secrets",
         "cardtype" : "Creature",
         "quantity" : 4,
@@ -10,7 +10,7 @@
         "backside" : "https://cards.scryfall.io/png/back/a/b/abff6c81-65a4-48fa-ba8f-580f87b0344a.png?1634347351"
     },
     {
-        "code" : "m2",
+        "code" : 2,
         "cardname" : "Faerie Miscreant",
         "cardtype" : "Creature",
         "quantity" : 4,
@@ -19,7 +19,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/2/8/28aa0337-94bd-4274-b2ee-6f43747c77b3.jpg?1592516372"
     },
     {
-        "code" : "m3",
+        "code" : 3,
         "cardname" : "Faerie Seer",
         "cardtype" : "Creature",
         "quantity" : 4,
@@ -28,7 +28,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/d/1/d1fcfeb4-1818-4e08-be4c-27b8a9dc12e6.jpg?1562201375"
     },
     {
-        "code" : "m3",
+        "code" : 4,
         "cardname" : "Ninja of the Deep Hours",
         "cardtype" : "Creature",
         "quantity" : 4,
@@ -37,7 +37,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/5/f/5fea7980-55e1-47c1-ab18-a89c976b55fc.jpg?1592710604"
     },
     {
-        "code" : "m4",
+        "code" : 5,
         "cardname" : "Spellstutter Sprite",
         "cardtype" : "Creature",
         "quantity" : 4,
@@ -46,7 +46,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/3/8/3899605d-2203-4ab6-9ff5-69490382eea4.jpg?1561966876"
     },
     {
-        "code" : "m5",
+        "code" : 6,
         "cardname" : "Of One Mind",
         "cardtype" : "Sorcery",
         "quantity" : 3,
@@ -55,7 +55,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/c/9/c95fb136-f21d-4f3a-82b7-bcf490b7e90c.jpg?1591226411"
     },
     {
-        "code" : "m6",
+        "code" : 7,
         "cardname" : "Ponder",
         "cardtype" : "Sorcery",
         "quantity" : 4,
@@ -64,7 +64,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/9/1/91382955-bcfc-4fb6-8cce-dc107e5b4c32.jpg?1592710610"
     },
     {
-        "code" : "m7",
+        "code" : 8,
         "cardname" : "Preordain",
         "cardtype" : "Sorcery",
         "quantity" : 4,
@@ -73,7 +73,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/7/8/78d22ece-0cb1-4faf-a871-995449c1a41f.jpg?1562706111"
     },
     {
-        "code" : "m8",
+        "code" : 9,
         "cardname" : "Counterspell",
         "cardtype" : "Instant",
         "quantity" : 4,
@@ -82,7 +82,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/1/9/1920dae4-fb92-4f19-ae4b-eb3276b8dac7.jpg?1628801663"
     },
     {
-        "code" : "m9",
+        "code" : 10,
         "cardname" : "Echoing Truth",
         "cardtype" : "Instant",
         "quantity" : 2,
@@ -91,7 +91,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/5/5/55cd75bc-5ec7-45b2-9231-85a321ecd786.jpg?1568003983"
     },
     {
-        "code" : "m10",
+        "code" : 11,
         "cardname" : "Force Spike",
         "cardtype" : "Instant",
         "quantity" : 1,
@@ -100,7 +100,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/9/7/97a6c6c9-dd26-4ce7-850f-0b3fc49245bd.jpg?1592713367"
     },
     {
-        "code" : "m11",
+        "code" : 12,
         "cardname" : "Snap",
         "cardtype" : "Instant",
         "quantity" : 4,
@@ -109,7 +109,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/1/9/1959f078-4b7b-4df2-a256-d43b2d97e853.jpg?1592761565"
     },
     {
-        "code" : "m12",
+        "code" : 13,
         "cardname" : "Spell Pierce",
         "cardtype" : "Instant",
         "quantity" : 2,
@@ -118,7 +118,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/5/3/53d4fd57-74b6-42c7-88b1-110e5a8dfc3c.jpg?1593813145"
     },
     {
-        "code" : "m13",
+        "code" : 14,
         "cardname" : "Snow-Covered Island",
         "cardtype" : "Land",
         "quantity" : 16,

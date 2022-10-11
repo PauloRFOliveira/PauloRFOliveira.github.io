@@ -1,6 +1,6 @@
 [
     {
-        "code" : "m1", 
+        "code" : 1, 
         "cardname" : "Battlefield Raptor", 
         "cardtype" : "Creature", 
         "quantity" : 4, 
@@ -9,7 +9,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/3/8/389f0045-218d-41cd-bdca-8a9a0ab1b31b.jpg?1631045484"
     },
     {
-        "code" : "m2", 
+        "code" : 2, 
         "cardname" : "Daybreak Chimera", 
         "cardtype" : "Creature", 
         "quantity" : 4, 
@@ -18,7 +18,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/f/9/f9c1de31-73d4-4c32-9f99-e15df48638e9.jpg?1581479004"
     },
     {
-        "code" : "m3", 
+        "code" : 3, 
         "cardname" : "Healer's Hawk", 
         "cardtype" : "Creature", 
         "quantity": 4, 
@@ -27,7 +27,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/d/d/dd39dd28-1dc2-46a5-a3cf-9b5d267e16d6.jpg?1600696494"
     },
     {
-        "code" : "m4", 
+        "code" : 4, 
         "cardname" : "Kor Skyfisher", 
         "cardtype" : "Creature", 
         "quantity" : 4, 
@@ -36,7 +36,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/d/7/d7501662-1216-4e08-bd2b-e0a459057942.jpg?1593812836"
     },
     {
-        "code" : "m5", 
+        "code" : 5, 
         "cardname" : "Loyal Cathar", 
         "cardtype" : "Creature", 
         "quantity" : 2, 
@@ -46,7 +46,7 @@
         "backside" : "https://cards.scryfall.io/png/back/c/b/cb09041b-4d09-4cae-9e85-b859edae885b.png?1581718174"
     },
     {
-        "code" : "m6", 
+        "code" : 6, 
         "cardname" : "Loyal Pegasus", 
         "cardtype" : "Creature", 
         "quantity" : 3, 
@@ -55,7 +55,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/7/c/7cae7971-953b-454a-84dd-ae2974946da9.jpg?1592516133"
     },
     {
-        "code" : "m7", 
+        "code" : 7, 
         "cardname" : "Palace Sentinels", 
         "cardtype" : "Creature", 
         "quantity" : 1, 
@@ -64,7 +64,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/4/f/4fd0e9a0-f974-412a-aba1-c4fb68351149.jpg?1608908912"
     },
     {
-        "code" : "m8", 
+        "code" : 8, 
         "cardname" : "Suture Priest", 
         "cardtype" : "Creature", 
         "quantity" : 4, 
@@ -73,7 +73,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/3/1/31432e98-86cd-42ea-ad37-eb4383dc6a81.jpg?1562876459"
     },
     {
-        "code" : "m9", 
+        "code" : 9, 
         "cardname" : "Thraben Inspector", 
         "cardtype" : "Creature", 
         "quantity" : 4, 
@@ -82,7 +82,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/2/b/2be39749-ad6f-4160-99eb-c677eee7f1b2.jpg?1599711120"
     },
     {
-        "code" : "m10",
+        "code" : 10,
         "cardname" : "Guardian's Pledge",
         "cardtype" : "Instant",
         "quantity" : 2,
@@ -91,7 +91,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/e/7/e7e6105c-8633-46f7-a7ca-2a5c36c6d548.jpg?1562663898"
     },
     {
-        "code" : "m11",
+        "code" : 11,
         "cardname" : "Ramosian Rally",
         "cardtype" : "Instant",
         "quantity" : 3,
@@ -100,7 +100,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/7/f/7fc0ff04-43e7-4a0d-b7e2-8bab72cc6cc0.jpg?1562381822"
     },
     {
-        "code" : "m12",
+        "code" : 12,
         "cardname" : "Cartouche of Solidarity",
         "cardtype" : "Enchantment",
         "quantity" : 4,
@@ -109,7 +109,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/9/0/90eaf94e-85a7-4958-aa58-8e2fe44db58d.jpg?1543674599"
     },
     {
-        "code" : "m13",
+        "code" : 13,
         "cardname" : "Journey to Nowhere",
         "cardtype" : "Enchantment",
         "quantity" : 4,
@@ -118,7 +118,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/4/6/4686b51c-e02b-48c1-bafe-e8d08a5407b9.jpg?1592712799"
     },
     {
-        "code" : "m14",
+        "code" : 14,
         "cardname" : "Boros Garrison",
         "cardtype" : "Land",
         "quantity" : 2,
@@ -127,7 +127,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/d/7/d7cd5af5-67de-4d4d-b84f-5f2c95bee52e.jpg?1664362216"
     },
     {
-        "code" : "m15",
+        "code" : 15,
         "cardname" : "Plains",
         "cardtype" : "Land",
         "quantity" : 14,
@@ -136,7 +136,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/5/8/5822b027-369d-46da-b6dd-c31207e2f449.jpg?1663052338"
     },
     {
-        "code" : "m16",
+        "code" : 16,
         "cardname" : "Secluded Steppe",
         "cardtype" : "Land",
         "quantity" : 3,

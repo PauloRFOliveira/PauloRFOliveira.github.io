@@ -1,6 +1,6 @@
 [
     {
-        "code" : "m1",
+        "code" : 1,
         "cardname" : "Architects of Will",
         "cardtype" : "Creature",
         "quantity" : 2,
@@ -9,7 +9,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/6/f/6f614bb4-92e3-4ae0-9f2f-294434706c48.jpg?1562918419"
     },
     {
-        "code" : "m2",
+        "code" : 2,
         "cardname" : "Drannith Healer",
         "cardtype" : "Creature",
         "quantity" : 4,
@@ -18,7 +18,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/f/f/ff5a821c-eaec-4f69-97c7-8299cdebc2f4.jpg?1591230232"
     },
     {
-        "code" : "m3",
+        "code" : 3,
         "cardname" : "Drannith Stinger",
         "cardtype" : "Creature",
         "quantity" : 4,
@@ -27,7 +27,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/6/1/612ee4be-e7a2-423c-a37c-7c6ca97f630e.jpg?1591227149"
     },
     {
-        "code" : "m4",
+        "code" : 4,
         "cardname" : "Horror of the Broken Lands",
         "cardtype" : "Creature",
         "quantity" : 4,
@@ -36,7 +36,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/f/b/fb1f0958-5bf6-4a4f-a4bc-2943c93ba15e.jpg?1562443142"
     },
     {
-        "code" : "m5",
+        "code" : 5,
         "cardname" : "Imposing Vantasaur",
         "cardtype" : "Creature",
         "quantity" : 4,
@@ -45,7 +45,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/b/6/b6fa5feb-f5e9-4079-acc9-84e458044769.jpg?1591230282"
     },
     {
-        "code" : "m6",
+        "code" : 6,
         "cardname" : "Lurching Rotbeast",
         "cardtype" : "Creature",
         "quantity" : 4,
@@ -54,7 +54,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/9/f/9f06be97-71c8-46c8-a1c2-5da3af25e6de.jpg?1562808809"
     },
     {
-        "code" : "m7",
+        "code" : 7,
         "cardname" : "Monstrous Carabid",
         "cardtype" : "Creature",
         "quantity" : 4,
@@ -63,7 +63,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/b/0/b09e668d-02ca-4164-88ee-c7ea6c665975.jpg?1562643647"
     },
     {
-        "code" : "m8",
+        "code" : 8,
         "cardname" : "Street Wraith",
         "cardtype" : "Creature",
         "quantity" : 4,
@@ -72,7 +72,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/7/d/7d078cad-7f2b-4bef-b637-46aec9c8ed36.jpg?1619396291"
     },
     {
-        "code" : "m9",
+        "code" : 9,
         "cardname" : "Unearth",
         "cardtype" : "Sorcery",
         "quantity" : 3,
@@ -81,7 +81,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/b/6/b62abd0c-ec3e-45d7-989d-da269812aeef.jpg?1562201767"
     },
     {
-        "code" : "m10",
+        "code" : 10,
         "cardname" : "Cabal Ritual",
         "cardtype" : "Instant",
         "quantity" : 4,
@@ -90,7 +90,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/5/4/5403b49d-03a7-4cc3-af3c-df098c1c9c2e.jpg?1562629771"
     },
     {
-        "code" : "m11",
+        "code" : 11,
         "cardname" : "Dark Ritual",
         "cardtype" : "Instant",
         "quantity" : 4,
@@ -99,7 +99,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/9/5/95f27eeb-6f14-4db3-adb9-9be5ed76b34b.jpg?1628801678"
     },
     {
-        "code" : "m12",
+        "code" : 12,
         "cardname" : "Death Denied",
         "cardtype" : "Instant",
         "quantity" : 1,
@@ -108,7 +108,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/7/3/73d0a239-4d45-4762-968a-d4b9479346d9.jpg?1547516831"
     },
     {
-        "code" : "m13",
+        "code" : 13,
         "cardname" : "Reaping the Graves",
         "cardtype" : "Instant",
         "quantity" : 4,
@@ -117,7 +117,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/7/6/760a66bd-2821-4710-8f02-3c30772dd884.jpg?1562530700"
     },
     {
-        "code" : "m14",
+        "code" : 14,
         "cardname" : "Songs of the Damned",
         "cardtype" : "Instant",
         "quantity" : 4,
@@ -126,7 +126,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/9/1/9133b267-295d-4987-b1d6-f32a85b66081.jpg?1547517061"
     },
     {
-        "code" : "m15",
+        "code" : 15,
         "cardname" : "Barren Moor",
         "cardtype" : "Land",
         "quantity" : 4,
@@ -135,7 +135,7 @@
         "art" : "https://cards.scryfall.io/art_crop/front/b/3/b38d7666-0791-44b4-877e-8fd33ce008aa.jpg?1625979730"
     },
     {
-        "code" : "m16",
+        "code" : 16,
         "cardname" : "Swamp",
         "cardtype" : "Land",
         "quantity" : 6,
