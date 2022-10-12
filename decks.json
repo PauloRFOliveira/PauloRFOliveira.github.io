@@ -11,8 +11,191 @@
     {   "id" : 2,
         "format" : "Pauper",
         "name" : "Mono Blue Delver",
-        "main" : "https://raw.githubusercontent.com/PauloRFOliveira/PauloRFOliveira.github.io/main/id2/main.json",
-        "side" : "https://raw.githubusercontent.com/PauloRFOliveira/PauloRFOliveira.github.io/main/id2/side.json",
+        "main" : [
+                        {
+                                "code" : 1,
+                                "cardname" : "Delver of Secrets",
+                                "cardtype" : "Creature",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/a/b/abff6c81-65a4-48fa-ba8f-580f87b0344a.png?1634347351",
+                                "doublesided" : true,
+                                "art" : "https://cards.scryfall.io/art_crop/front/a/b/abff6c81-65a4-48fa-ba8f-580f87b0344a.jpg?1634347351",
+                                "backside" : "https://cards.scryfall.io/png/back/a/b/abff6c81-65a4-48fa-ba8f-580f87b0344a.png?1634347351"
+                        },
+                        {
+                                "code" : 2,
+                                "cardname" : "Faerie Miscreant",
+                                "cardtype" : "Creature",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/2/8/28aa0337-94bd-4274-b2ee-6f43747c77b3.png?1592516372",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/2/8/28aa0337-94bd-4274-b2ee-6f43747c77b3.jpg?1592516372"
+                        },
+                        {
+                                "code" : 3,
+                                "cardname" : "Faerie Seer",
+                                "cardtype" : "Creature",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/d/1/d1fcfeb4-1818-4e08-be4c-27b8a9dc12e6.png?1562201375",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/d/1/d1fcfeb4-1818-4e08-be4c-27b8a9dc12e6.jpg?1562201375"
+                        },
+                        {
+                                "code" : 4,
+                                "cardname" : "Ninja of the Deep Hours",
+                                "cardtype" : "Creature",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/5/f/5fea7980-55e1-47c1-ab18-a89c976b55fc.png?1592710604",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/5/f/5fea7980-55e1-47c1-ab18-a89c976b55fc.jpg?1592710604"
+                        },
+                        {
+                                "code" : 5,
+                                "cardname" : "Spellstutter Sprite",
+                                "cardtype" : "Creature",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/3/8/3899605d-2203-4ab6-9ff5-69490382eea4.png?1561966876",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/3/8/3899605d-2203-4ab6-9ff5-69490382eea4.jpg?1561966876"
+                        },
+                        {
+                                "code" : 6,
+                                "cardname" : "Of One Mind",
+                                "cardtype" : "Sorcery",
+                                "quantity" : 3,
+                                "image" : "https://cards.scryfall.io/png/front/c/9/c95fb136-f21d-4f3a-82b7-bcf490b7e90c.png?1591226411",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/c/9/c95fb136-f21d-4f3a-82b7-bcf490b7e90c.jpg?1591226411"
+                        },
+                        {
+                                "code" : 7,
+                                "cardname" : "Ponder",
+                                "cardtype" : "Sorcery",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/9/1/91382955-bcfc-4fb6-8cce-dc107e5b4c32.png?1592710610",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/9/1/91382955-bcfc-4fb6-8cce-dc107e5b4c32.jpg?1592710610"
+                        },
+                        {
+                                "code" : 8,
+                                "cardname" : "Preordain",
+                                "cardtype" : "Sorcery",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/7/8/78d22ece-0cb1-4faf-a871-995449c1a41f.png?1562706111",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/7/8/78d22ece-0cb1-4faf-a871-995449c1a41f.jpg?1562706111"
+                        },
+                        {
+                                "code" : 9,
+                                "cardname" : "Counterspell",
+                                "cardtype" : "Instant",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/1/9/1920dae4-fb92-4f19-ae4b-eb3276b8dac7.png?1628801663",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/1/9/1920dae4-fb92-4f19-ae4b-eb3276b8dac7.jpg?1628801663"
+                        },
+                        {
+                                "code" : 10,
+                                "cardname" : "Echoing Truth",
+                                "cardtype" : "Instant",
+                                "quantity" : 2,
+                                "image" : "https://cards.scryfall.io/png/front/5/5/55cd75bc-5ec7-45b2-9231-85a321ecd786.png?1568003983",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/5/5/55cd75bc-5ec7-45b2-9231-85a321ecd786.jpg?1568003983"
+                        },
+                        {
+                                "code" : 11,
+                                "cardname" : "Force Spike",
+                                "cardtype" : "Instant",
+                                "quantity" : 1,
+                                "image" : "https://cards.scryfall.io/png/front/9/7/97a6c6c9-dd26-4ce7-850f-0b3fc49245bd.png?1592713367",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/9/7/97a6c6c9-dd26-4ce7-850f-0b3fc49245bd.jpg?1592713367"
+                        },
+                        {
+                                "code" : 12,
+                                "cardname" : "Snap",
+                                "cardtype" : "Instant",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/1/9/1959f078-4b7b-4df2-a256-d43b2d97e853.png?1592761565",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/1/9/1959f078-4b7b-4df2-a256-d43b2d97e853.jpg?1592761565"
+                        },
+                        {
+                                "code" : 13,
+                                "cardname" : "Spell Pierce",
+                                "cardtype" : "Instant",
+                                "quantity" : 2,
+                                "image" : "https://cards.scryfall.io/png/front/5/3/53d4fd57-74b6-42c7-88b1-110e5a8dfc3c.png?1593813145",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/5/3/53d4fd57-74b6-42c7-88b1-110e5a8dfc3c.jpg?1593813145"
+                        },
+                        {
+                                "code" : 14,
+                                "cardname" : "Snow-Covered Island",
+                                "cardtype" : "Land",
+                                "quantity" : 16,
+                                "image" : "https://cards.scryfall.io/png/front/3/b/3bfa5ebc-5623-4eec-89ea-dc187489ee4a.png?1631053379",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/3/b/3bfa5ebc-5623-4eec-89ea-dc187489ee4a.jpg?1631053379"
+                        }
+            ],
+        "side" : [
+                        {
+                                "code" : 1,
+                                "cardname" : "Echoing Truth",
+                                "cardtype" : "Instant",
+                                "quantity" : 1,
+                                "image" : "https://cards.scryfall.io/png/front/5/5/55cd75bc-5ec7-45b2-9231-85a321ecd786.png?1568003983",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/5/5/55cd75bc-5ec7-45b2-9231-85a321ecd786.jpg?1568003983"
+                        },
+                        {
+                                "code" : 2,
+                                "cardname" : "Dispel",
+                                "cardtype" : "Instant",
+                                "quantity" : 2,
+                                "image" : "https://cards.scryfall.io/png/front/b/c/bceab6b3-6b64-4964-a501-ce806a6c13ad.png?1562939587",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/b/c/bceab6b3-6b64-4964-a501-ce806a6c13ad.jpg?1562939587"
+                        },
+                        {
+                                "code" : 3,
+                                "cardname" : "Steel Sabotage",
+                                "cardtype" : "Instant",
+                                "quantity" : 3,
+                                "image" : "https://cards.scryfall.io/png/front/c/2/c227437d-1fc7-4a00-ace5-80795adc51d3.png?1598304335",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/c/2/c227437d-1fc7-4a00-ace5-80795adc51d3.jpg?1598304335"
+                        },
+                        {
+                                "code" : 4,
+                                "cardname" : "Blue Elemental Blast",
+                                "cardtype" : "Instant",
+                                "quantity" : 3,
+                                "image" : "https://cards.scryfall.io/png/front/2/f/2f51f88f-f662-4572-a371-9a77718ed079.png?1562434032",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/2/f/2f51f88f-f662-4572-a371-9a77718ed079.jpg?1562434032"
+                        },
+                        {
+                                "code" : 5,
+                                "cardname" : "Gut Shot",
+                                "cardtype" : "Instant",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/4/6/461987da-8860-4a04-8f93-d182523ca311.png?1562261607",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/4/6/461987da-8860-4a04-8f93-d182523ca311.jpg?1562261607"
+                        },
+                        {
+                                "code" : 6,
+                                "cardname" : "Winter's Rest",
+                                "cardtype" : "Enchantment",
+                                "quantity" : 2,
+                                "image" : "https://cards.scryfall.io/png/front/1/f/1fdaf6b6-aca7-49e5-a4da-bf8c08b4a055.png?1562201558",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/1/f/1fdaf6b6-aca7-49e5-a4da-bf8c08b4a055.jpg?1562201558"
+                        }
+            ],
         "mainsize" : 60,
         "sidesize" : 15,
         "url" : "https://raw.githubusercontent.com/PauloRFOliveira/PauloRFOliveira.github.io/main/id2/full.json"
@@ -20,8 +203,190 @@
     {   "id" : 3,
         "format" : "Pauper",
         "name" : "Cycling Storm",
-        "main" : "https://raw.githubusercontent.com/PauloRFOliveira/PauloRFOliveira.github.io/main/id3/main.json",
-        "side" : "https://raw.githubusercontent.com/PauloRFOliveira/PauloRFOliveira.github.io/main/id3/side.json",
+        "main" : [
+                        {
+                                "code" : 1,
+                                "cardname" : "Architects of Will",
+                                "cardtype" : "Creature",
+                                "quantity" : 2,
+                                "image" : "https://cards.scryfall.io/png/front/6/f/6f614bb4-92e3-4ae0-9f2f-294434706c48.png?1562918419",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/6/f/6f614bb4-92e3-4ae0-9f2f-294434706c48.jpg?1562918419"
+                        },
+                        {
+                                "code" : 2,
+                                "cardname" : "Drannith Healer",
+                                "cardtype" : "Creature",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/f/f/ff5a821c-eaec-4f69-97c7-8299cdebc2f4.png?1591230232",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/f/f/ff5a821c-eaec-4f69-97c7-8299cdebc2f4.jpg?1591230232"
+                        },
+                        {
+                                "code" : 3,
+                                "cardname" : "Drannith Stinger",
+                                "cardtype" : "Creature",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/6/1/612ee4be-e7a2-423c-a37c-7c6ca97f630e.png?1591227149",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/6/1/612ee4be-e7a2-423c-a37c-7c6ca97f630e.jpg?1591227149"
+                        },
+                        {
+                                "code" : 4,
+                                "cardname" : "Horror of the Broken Lands",
+                                "cardtype" : "Creature",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/f/b/fb1f0958-5bf6-4a4f-a4bc-2943c93ba15e.png?1562443142",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/f/b/fb1f0958-5bf6-4a4f-a4bc-2943c93ba15e.jpg?1562443142"
+                        },
+                        {
+                                "code" : 5,
+                                "cardname" : "Imposing Vantasaur",
+                                "cardtype" : "Creature",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/b/6/b6fa5feb-f5e9-4079-acc9-84e458044769.png?1591230282",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/b/6/b6fa5feb-f5e9-4079-acc9-84e458044769.jpg?1591230282"
+                        },
+                        {
+                                "code" : 6,
+                                "cardname" : "Lurching Rotbeast",
+                                "cardtype" : "Creature",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/9/f/9f06be97-71c8-46c8-a1c2-5da3af25e6de.png?1562808809",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/9/f/9f06be97-71c8-46c8-a1c2-5da3af25e6de.jpg?1562808809"
+                        },
+                        {
+                                "code" : 7,
+                                "cardname" : "Monstrous Carabid",
+                                "cardtype" : "Creature",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/b/0/b09e668d-02ca-4164-88ee-c7ea6c665975.png?1562643647",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/b/0/b09e668d-02ca-4164-88ee-c7ea6c665975.jpg?1562643647"
+                        },
+                        {
+                                "code" : 8,
+                                "cardname" : "Street Wraith",
+                                "cardtype" : "Creature",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/7/d/7d078cad-7f2b-4bef-b637-46aec9c8ed36.png?1619396291",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/7/d/7d078cad-7f2b-4bef-b637-46aec9c8ed36.jpg?1619396291"
+                                },
+                        {
+                                "code" : 9,
+                                "cardname" : "Unearth",
+                                "cardtype" : "Sorcery",
+                                "quantity" : 3,
+                                "image" : "https://cards.scryfall.io/png/front/b/6/b62abd0c-ec3e-45d7-989d-da269812aeef.png?1562201767",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/b/6/b62abd0c-ec3e-45d7-989d-da269812aeef.jpg?1562201767"
+                        },
+                        {
+                                "code" : 10,
+                                "cardname" : "Cabal Ritual",
+                                "cardtype" : "Instant",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/5/4/5403b49d-03a7-4cc3-af3c-df098c1c9c2e.png?1562629771",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/5/4/5403b49d-03a7-4cc3-af3c-df098c1c9c2e.jpg?1562629771"
+                        },
+                        {
+                                "code" : 11,
+                                "cardname" : "Dark Ritual",
+                                "cardtype" : "Instant",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/9/5/95f27eeb-6f14-4db3-adb9-9be5ed76b34b.png?1628801678",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/9/5/95f27eeb-6f14-4db3-adb9-9be5ed76b34b.jpg?1628801678"
+                        },
+                        {
+                                "code" : 12,
+                                "cardname" : "Death Denied",
+                                "cardtype" : "Instant",
+                                "quantity" : 1,
+                                "image" : "https://cards.scryfall.io/png/front/7/3/73d0a239-4d45-4762-968a-d4b9479346d9.png?1547516831",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/7/3/73d0a239-4d45-4762-968a-d4b9479346d9.jpg?1547516831"
+                        },
+                        {
+                                "code" : 13,
+                                "cardname" : "Reaping the Graves",
+                                "cardtype" : "Instant",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/7/6/760a66bd-2821-4710-8f02-3c30772dd884.png?1562530700",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/7/6/760a66bd-2821-4710-8f02-3c30772dd884.jpg?1562530700"
+                        },
+                        {
+                                "code" : 14,
+                                "cardname" : "Songs of the Damned",
+                                "cardtype" : "Instant",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/9/1/9133b267-295d-4987-b1d6-f32a85b66081.png?1547517061",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/9/1/9133b267-295d-4987-b1d6-f32a85b66081.jpg?1547517061"
+                        },
+                        {
+                                "code" : 15,
+                                "cardname" : "Barren Moor",
+                                "cardtype" : "Land",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/b/3/b38d7666-0791-44b4-877e-8fd33ce008aa.png?1625979730",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/b/3/b38d7666-0791-44b4-877e-8fd33ce008aa.jpg?1625979730"
+                        },
+                        {
+                                "code" : 16,
+                                "cardname" : "Swamp",
+                                "cardtype" : "Land",
+                                "quantity" : 6,
+                                "image" : "https://cards.scryfall.io/png/front/e/a/ea640731-b367-4ece-934e-6d86634fc1c8.png?1627710748",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/e/a/ea640731-b367-4ece-934e-6d86634fc1c8.jpg?1627710748"
+                        }
+            ],
+        "side" : [
+                        {
+                                "code" : 1,
+                                "cardname" : "Cram Session",
+                                "cardtype" : "Sorcery",
+                                "quantity" : 3,
+                                "image" : "https://cards.scryfall.io/png/front/c/5/c59a249f-35ed-447a-845b-32ba5a53124e.png?1627428330",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/c/5/c59a249f-35ed-447a-845b-32ba5a53124e.jpg?1627428330"
+                        },
+                        {
+                                "code" : 2,
+                                "cardname" : "Echoing Decay",
+                                "cardtype" : "Instant",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/f/8/f8e688e7-8350-4b78-bd49-a6ffdedad556.png?1562640566",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/f/8/f8e688e7-8350-4b78-bd49-a6ffdedad556.jpg?1562640566"
+                        },
+                        {
+                                "code" : 3,
+                                "cardname" : "Duress",
+                                "cardtype" : "Sorcery",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/c/0/c0a72721-2a4a-4d48-a7b0-2370b90b8619.png?1634349768",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/c/0/c0a72721-2a4a-4d48-a7b0-2370b90b8619.jpg?1634349768"
+                        },
+                        {
+                                "code" : 4,
+                                "cardname" : "Memory Leak",
+                                "cardtype" : "Sorcery",
+                                "quantity" : 4,
+                                "image" : "https://cards.scryfall.io/png/front/3/b/3b45a493-a1c2-430e-a45c-abc1ba554877.png?1591226876",
+                                "doublesided" : false,
+                                "art" : "https://cards.scryfall.io/art_crop/front/3/b/3b45a493-a1c2-430e-a45c-abc1ba554877.jpg?1591226876"
+                        }
+            ],
         "mainsize" : 60,
         "sidesize" : 15,
         "url" : "https://raw.githubusercontent.com/PauloRFOliveira/PauloRFOliveira.github.io/main/id3/full.json"
