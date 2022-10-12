@@ -4,5 +4,6 @@
         "main" : "https://raw.githubusercontent.com/PauloRFOliveira/PauloRFOliveira.github.io/main/id3/main.json",
         "side" : "https://raw.githubusercontent.com/PauloRFOliveira/PauloRFOliveira.github.io/main/id3/side.json",
         "mainsize" : 60,
-        "sidesize" : 15
+        "sidesize" : 15,
+        "url" : "https://raw.githubusercontent.com/PauloRFOliveira/PauloRFOliveira.github.io/main/id3/full.json"
 }

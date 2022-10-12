@@ -5,7 +5,8 @@
         "main" : "https://raw.githubusercontent.com/PauloRFOliveira/PauloRFOliveira.github.io/main/id1/main.json",
         "side" : "https://raw.githubusercontent.com/PauloRFOliveira/PauloRFOliveira.github.io/main/id1/side.json",
         "mainsize" : 61,
-        "sidesize" : 15
+        "sidesize" : 15,
+        "url" : "https://raw.githubusercontent.com/PauloRFOliveira/PauloRFOliveira.github.io/main/id1/full.json"
     },
     {   "id" : 2,
         "format" : "Pauper",
@@ -13,7 +14,8 @@
         "main" : "https://raw.githubusercontent.com/PauloRFOliveira/PauloRFOliveira.github.io/main/id2/main.json",
         "side" : "https://raw.githubusercontent.com/PauloRFOliveira/PauloRFOliveira.github.io/main/id2/side.json",
         "mainsize" : 60,
-        "sidesize" : 15
+        "sidesize" : 15,
+        "url" : "https://raw.githubusercontent.com/PauloRFOliveira/PauloRFOliveira.github.io/main/id2/full.json"
     },
     {   "id" : 3,
         "format" : "Pauper",
@@ -21,6 +23,7 @@
         "main" : "https://raw.githubusercontent.com/PauloRFOliveira/PauloRFOliveira.github.io/main/id3/main.json",
         "side" : "https://raw.githubusercontent.com/PauloRFOliveira/PauloRFOliveira.github.io/main/id3/side.json",
         "mainsize" : 60,
-        "sidesize" : 15
+        "sidesize" : 15,
+        "url" : "https://raw.githubusercontent.com/PauloRFOliveira/PauloRFOliveira.github.io/main/id3/full.json"
     }
 ]
