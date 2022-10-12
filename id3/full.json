@@ -1,0 +1,8 @@
+{   "id" : 3,
+        "format" : "Pauper",
+        "name" : "Cycling Storm",
+        "main" : "https://raw.githubusercontent.com/PauloRFOliveira/PauloRFOliveira.github.io/main/id3/main.json",
+        "side" : "https://raw.githubusercontent.com/PauloRFOliveira/PauloRFOliveira.github.io/main/id3/side.json",
+        "mainsize" : 60,
+        "sidesize" : 15
+}

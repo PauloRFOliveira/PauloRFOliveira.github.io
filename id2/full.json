@@ -1,0 +1,8 @@
+{   "id" : 2,
+        "format" : "Pauper",
+        "name" : "Mono Blue Delver",
+        "main" : "https://raw.githubusercontent.com/PauloRFOliveira/PauloRFOliveira.github.io/main/id2/main.json",
+        "side" : "https://raw.githubusercontent.com/PauloRFOliveira/PauloRFOliveira.github.io/main/id2/side.json",
+        "mainsize" : 60,
+        "sidesize" : 15
+}
